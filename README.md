@@ -10,7 +10,7 @@ DNSToggle is a macOS menubar utility for quickly switching DNS resolvers. DNSTog
 
 ## Download
 
-[Click here to download the latest release.](https://github.com/jashephe/DMSToggle/releases/latest)
+[Click here to download the latest release.](https://github.com/jashephe/DNSToggle/releases/latest)
 
 ## Issues and Feature Requests
 
