@@ -29,7 +29,7 @@ struct Menu: View {
             }
             Button {
                 NSApplication.shared.orderFrontStandardAboutPanel()
-                NSApplication.shared.activate()
+                NSApplication.shared.activate(ignoringOtherApps: true)
             } label: {
                 Text("About DNSToggle")
             }
